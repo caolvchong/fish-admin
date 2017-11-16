@@ -1,0 +1,15 @@
+.nav {
+  li {
+    width: 100%;
+    padding: 2px;
+    border-bottom: 1px dashed #ddd;
+    .highlight {
+      color: red;
+      font-weight: bold;
+    }
+  }
+}
+
+.content {
+  min-height: 500px;
+}
